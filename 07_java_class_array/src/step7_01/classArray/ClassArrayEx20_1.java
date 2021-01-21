@@ -42,6 +42,9 @@ public class ClassArrayEx20_1 {
 		list.put("메롱", new Tv2("에어팟" , "애플" , 321231));
 		list.put("바보", new Tv2("에어팟" , null , 0));
 		
+		System.out.println(list);
+		System.out.println();
+		
 		for (String key : list.keySet()) {
 			System.out.println("[ key : " + key + " ]");
 			System.out.println("name : " + list.get(key).name);
