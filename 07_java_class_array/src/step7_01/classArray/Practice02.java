@@ -44,6 +44,7 @@ public class Practice02 {
 			System.out.println();
 		}
 		
+		System.out.println(list.get(2).color);
 		System.out.println(list.size());
 		
 		

@@ -38,6 +38,7 @@ public class ClassArrayEx18 {
 		
 		Character c1 = new Character();	
 		c1.hp = 0;
+		
 		// 클래스명.static변수명으로 접근
 		Character.moveSpeed += 10;	// c1.moveSpeed += 10;
 		
