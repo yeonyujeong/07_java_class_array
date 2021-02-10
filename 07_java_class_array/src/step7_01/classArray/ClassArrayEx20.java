@@ -21,6 +21,7 @@ public class ClassArrayEx20 {
 		hmap.put("data1", 10000);
 		hmap.put("data2", 20000);
 		hmap.put("data3", 30000);
+		
 		System.out.println(hmap);
 		System.out.println();
 		
